@@ -48,4 +48,11 @@ Gerar um plano de MVP contendo:
 - **Proposta de validação inicial**:  
   - Testar com **5 a 10 famílias reais**.  
   - Medir se o app ajuda a **entender melhor a situação financeira**.  
-  - Observar se as recomendações são percebidas como **realistas e úteis**.  
+  - Observar se as recomendações são percebidas como **realistas e úteis**.
+ 
+ ##  O QUE FUNCIONOU BEM?
+- Gostei muito de usar o Lovable! Deu super certo
+ ## O QUE NÃO FUNCIONOU COMO ESPERADO?
+ - Achei meio confuso o GITHUB
+## O QUE APRENDI SOBRE CONVERSAR COM IA
+- Achei algo que em breve será indispensável na vida humana na questão de trabalho e efiencia
